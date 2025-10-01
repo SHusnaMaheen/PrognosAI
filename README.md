@@ -30,12 +30,6 @@
 
 ---
 
-## Architecture  
-
-![](Aspose.Words.072c5ff2-ae53-4611-8571-688eb115c598.001.png)  
-
----
-
 ## Technology Stack  
 
 - **Python** – Core programming language  
